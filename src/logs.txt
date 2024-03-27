@@ -1,0 +1,2 @@
+Error Date is ۱۴۰۳/۱/۲--۷:۰۹:۴۹--->AxiosError: Request failed with status code 400
+Error Date is ۱۴۰۳/۱/۲--۱۳:۴۰:۱۱--->Error: getaddrinfo ENOTFOUND api.sms.ir
